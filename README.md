@@ -46,7 +46,11 @@ A Mikrotik LHG18 LTE antenna és egy SIM kártya segítségével jelet fogunk Mi
 | Signal                               |  90           | 
 | MCS                                  |  7            | 
 | TX sector                            |  60           | 
-| RX sector                            |  96           | 
+| RX sector                            |  96           |
+
+## Összeszerelési vázlat
+
+![mikrotik kép vázlat](https://github.com/user-attachments/assets/719ba630-922b-4e65-bc3d-ec465f1c65a2)
 
 ## Mérési Kép
 
