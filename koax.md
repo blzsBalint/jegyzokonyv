@@ -30,7 +30,7 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 **Mért eredmények:**
 
 
-| **Mérési paraméter** | **RF Frekvencia (MHz)** | **dBuV** |**CSillapítás (dB)**  |
+| **Mérési paraméter** | **RF Frekvencia (MHz)** | **dBuV** |**Csillapítás (dB)**  |
 |----------------------|-------------------------|----------|-----------------|
 | Mérés 1              | 858                     | 89,5     | 0,5             |
 | Mérés 2              | 177,5                   | 89,7     | 0,3             |
@@ -46,7 +46,7 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 ---
 
 **Összesítés:**
- A kábelen minimális csillapítás figyelhető meg ez ennél a méretnél teljes mértékben megfelelő.A feladatot sikeresen elvégeztük, a méréseket sikerült elkészíteni.
+ A kábelen minimális csillapítás figyelhető meg ez ennél a méretnél teljes mértékben megfelelő. A feladatot sikeresen elvégeztük, a méréseket sikerült elkészíteni.
  
 ---
 **Aláírás:**
