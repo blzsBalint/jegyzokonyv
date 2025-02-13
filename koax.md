@@ -21,18 +21,25 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 - Koaxiális kábel
 - Metek HDD
 - Blankoló
+- F csatlakozó
  
 ![cigany6](https://github.com/user-attachments/assets/43ab2296-4b2d-4b6d-88af-6f03e9119b02)
 
 
 **Végeredmény:**
 
-A Johansson modulátorból 90 dBµV szintű jelet küldünk a Metek eszközhöz, és a közöttük lévő kapcsolatot az általunk készített koaxiális kábellel valósítjuk meg. A Metek HDD-ben mért jel szintje 89,7 dBµV, ami a készített kábel csillapítását jelzi.
+
+| **Mérési paraméter** | **RF Frekvencia (MHz)** | **dBuV** |**CSillapítás**  |
+|----------------------|-------------------------|----------|-----------------|
+| Mérés 1              | 858                     | 89,5     | 0,5             |
+| Mérés 2              | 177,5                   | 89,7     | 0,3             |
+
+**Mérés 1**
+
 ![cigany2](https://github.com/user-attachments/assets/8615d3fa-2aaa-4b0e-83f4-7a80356257a7) 
 
- Ezt követően a 177Hz-re csökkentettem a jelet, és ezen a beállításon is végeztem mérést.
+**Mérés 2**
  
 ![cigany1](https://github.com/user-attachments/assets/47a56373-b302-4bc4-bdae-5f13ec20c0e3)
 **Összesítés:**
-
-A feladatot sikeresen elvégeztük, a méréseket sikerült elkészíteni.
+ A kábelen minimális csillapítás figyelhető meg ez ennél a méretnél teljes mértékben megfelelő.A feladatot sikeresen elvégeztük, a méréseket sikerült elkészíteni.
