@@ -30,7 +30,7 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 **Mért eredmények:**
 
 
-| **Mérési paraméter** | **RF Frekvencia (MHz)** | **dBuV** |**CSillapítás**  |
+| **Mérési paraméter** | **RF Frekvencia (MHz)** | **dBuV** |**CSillapítás (dB)**  |
 |----------------------|-------------------------|----------|-----------------|
 | Mérés 1              | 858                     | 89,5     | 0,5             |
 | Mérés 2              | 177,5                   | 89,7     | 0,3             |
