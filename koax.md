@@ -20,13 +20,14 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 - Johansson 8202 DVB-T modulátor
 - Koaxiális kábel
 - Metek HDD
-- Blankoló
+- Rotációs blankoló
 - F csatlakozó
  
 ![cigany6](https://github.com/user-attachments/assets/43ab2296-4b2d-4b6d-88af-6f03e9119b02)
 
+---
 
-**Végeredmény:**
+**Mért eredmények:**
 
 
 | **Mérési paraméter** | **RF Frekvencia (MHz)** | **dBuV** |**CSillapítás**  |
@@ -41,5 +42,12 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 **Mérés 2**
  
 ![cigany1](https://github.com/user-attachments/assets/47a56373-b302-4bc4-bdae-5f13ec20c0e3)
+
+---
+
 **Összesítés:**
  A kábelen minimális csillapítás figyelhető meg ez ennél a méretnél teljes mértékben megfelelő.A feladatot sikeresen elvégeztük, a méréseket sikerült elkészíteni.
+ 
+---
+**Aláírás:**
+Balázs Bálint
